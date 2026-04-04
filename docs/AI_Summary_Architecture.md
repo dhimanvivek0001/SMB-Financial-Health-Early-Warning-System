@@ -56,6 +56,7 @@ summary = model.generate_content(prompt).text
 # Writes to analytics.llm_weekly_summary
 write_summary_to_bigquery(summary, client)
 ```
+<img width="1274" height="899" alt="image" src="https://github.com/user-attachments/assets/2c28fdf9-8e78-492b-b72f-ab5f55a9b9c0" />
 
 Output table columns:
 ```sql
