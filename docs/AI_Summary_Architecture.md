@@ -15,4 +15,13 @@ this feature automatically generates a plain-English paragraph like this:
 
 ### Example Output (what the business owner sees in the dashboard)
 
+## AI Weekly Summary — Architecture
 
+### Full workflow
+![AI Summary Workflow](docs/ai_summary_workflow.png)
+
+### BigQuery output table
+![BigQuery Schema](docs/ai_summary_schema.png)
+
+### What the user sees in the dashboard
+![Dashboard Output](docs/ai_summary_dashboard.png)
