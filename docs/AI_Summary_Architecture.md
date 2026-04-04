@@ -18,7 +18,8 @@ this feature automatically generates a plain-English paragraph like this:
 ## AI Weekly Summary — Architecture
 
 ### Full workflow
-![AI Summary Workflow](docs/ai_summary_workflow.png)
+<img width="709" height="910" alt="image" src="https://github.com/user-attachments/assets/d972eb95-9866-4ab0-905d-eb80244ca9ef" />
+
 
 ### BigQuery output table
 ![BigQuery Schema](docs/ai_summary_schema.png)
